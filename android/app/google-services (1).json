@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98863322095",
+    "project_id": "tasarimargem",
+    "storage_bucket": "tasarimargem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98863322095:android:82bbf08b93fbea2bc9dc1a",
+        "android_client_info": {
+          "package_name": "com.example.tasarimargem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98863322095-egm424qvllb0hkhhkpdjalvhs55pr36c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3BNPHFFbcnSSWE55CP48CkXOJDdvmkWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98863322095-egm424qvllb0hkhhkpdjalvhs55pr36c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
